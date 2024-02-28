@@ -1,5 +1,4 @@
-
-# Hello Python
+# Python Starter (Hop Game)
 
 این تمرین برای آشنایی شما با پایتون در نظر گرفته شده است
 
